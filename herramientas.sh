@@ -1,6 +1,6 @@
 #! /bin/bash
-echo "DOCKER"
 sudo apt-get update
+echo "DOCKER"
 sudo apt update
 sudo apt-get install docker.io
 echo "PIP"
