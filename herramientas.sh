@@ -1,7 +1,6 @@
 #! /bin/bash
-sudo apt-get update
 echo "DOCKER"
-sudo apt update
+sudo apt-get update
 sudo apt-get install docker.io
 echo "PIP"
 sudo apt install python3 -y
