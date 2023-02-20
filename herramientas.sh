@@ -1,10 +1,10 @@
 #! /bin/bash
 echo "DOCKER"
 sudo apt-get update
-sudo apt-get install docker.io -y
+sudo apt-get install docker.io
 echo "PIP"
 sudo apt install python3
-sudo apt install python3-pip -y
+sudo apt install python3-pip
 echo "CLI AWS"
 sudo apt update
 sudo apt update
